@@ -174,6 +174,6 @@ This project centers on building a personal indoor robot assistant capable of au
 
 ## Appendix
 Circuit diagram:
-[!circuit-diagram](public/Quest5-circuit-diagram.jpg)
+![circuit-diagram](public/Quest5-circuit-diagram.jpg)
 
 This personal indoor robot assistant project brings together embedded systems design, real-time networking, and automated control to achieve robust waypoint navigation and obstacle avoidance. Its flexible architecture, modular codebase, and user-friendly interface make it a compelling foundation for further robotic exploration and innovation.
